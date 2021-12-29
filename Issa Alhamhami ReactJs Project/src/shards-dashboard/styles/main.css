@@ -1,0 +1,15 @@
+.card_1 {
+  background-image: linear-gradient(to right, #c356c5 0%, #3d3fc4 100%);
+  color:white;
+}
+
+
+.card_2 {
+  background-image: linear-gradient(to right, #e8b270 0%, #bb3d0d 100%);
+  color: white;
+}
+
+.card_3 {
+  background-image: linear-gradient(to right, #3edc85 0%, #31c9d9 100%);
+  color: white;
+}
